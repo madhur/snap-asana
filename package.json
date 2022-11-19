@@ -1,0 +1,17 @@
+{
+    "name": "notion-asana",
+    "version": "1.4.0",
+    "description": "A snap of Asana",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron .",
+      "dist": "electron-builder --linux snap"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "electron": "18.2.4",
+      "electron-builder": "23.0.3"
+    }
+  }
