@@ -1,14 +1,14 @@
 {
-    "name": "notion-asana",
+    "name": "asana-snap",
     "version": "1.4.0",
-    "description": "A snap of Asana",
+    "description": "Packaged by Madhur Ahuja. This is not an official Asana snap.",
     "main": "main.js",
     "scripts": {
       "start": "electron .",
       "dist": "electron-builder --linux snap"
     },
     "keywords": [],
-    "author": "",
+    "author": "Madhur Ahuja",
     "license": "ISC",
     "devDependencies": {
       "electron": "18.2.4",
