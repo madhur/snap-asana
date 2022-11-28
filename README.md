@@ -2,10 +2,14 @@
 
 A snap of [Asana](https://app.asana.com)  
 
-[![asana-snap](https://snapcraft.io/asana-snap/badge.svg)](https://snapcraft.io/asana-snap)
+
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/asana-snap)
+
+
 
 
 
 ```
-snap install asana-snap
+sudo snap install asana-snap
 ```
