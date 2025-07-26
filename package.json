@@ -1,6 +1,6 @@
 {
     "name": "asana-snap",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "description": "Packaged by Madhur Ahuja. This is not an official Asana snap.",
     "main": "main.js",
     "scripts": {
@@ -11,7 +11,7 @@
     "author": "Madhur Ahuja",
     "license": "ISC",
     "devDependencies": {
-        "electron": "^26.1.0",
-        "electron-builder": "^24.6.3"
+        "electron": "^37.2.4",
+        "electron-builder": "^26.0.12"
     }
 }

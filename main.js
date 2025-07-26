@@ -5,7 +5,7 @@ app.on("ready", () => {
     autoHideMenuBar: true,
   });
   win.maximize();
-  win.loadURL("https://app.asana.com");
+  win.loadURL("https://app.asana.com", {userAgent: 'Chrome/137.0.0.0'});
 
   // Deal with external links
   win.webContents.setWindowOpenHandler(({ url }) => {
